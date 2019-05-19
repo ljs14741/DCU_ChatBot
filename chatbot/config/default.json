@@ -1,0 +1,12 @@
+	
+{
+	"port": 10000,
+	"proxy":"/chat/api", //카카오 접속경로 설정인듯 
+	"database":{ 		// 데이터베이스 접속 정보
+		"db":"dcu",
+		"user": "root",
+		"password" :"1234",
+		"host": "localhost",
+		"port":3306
+	}
+}
